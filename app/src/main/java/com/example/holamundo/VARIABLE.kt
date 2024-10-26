@@ -60,6 +60,7 @@ fun main(){
 //    println(age / age2)
 //    println("modulo")
 //    println(age % age2)
-
-
+    var exampleSuma:Float = age + floatExampleNumberTwoYes
+    println(exampleSuma)
+    println("asd")
 }
