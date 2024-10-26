@@ -9,6 +9,7 @@ fun main(){
     //variables numericas
     //INT -2.147.483.647 A 2.147.483.647
     val age:Int = 30
+    val age2:Int = 45
 
     //LONG -9.223.372.036.854.775.807 a 9.223.372.036.854.775.807
     val example:Long = 30
@@ -36,6 +37,7 @@ fun main(){
      * VARIABLES BOOLEANAS
      * **/
     val booleanExample:Boolean = true
+
     val booleanExample2:Boolean = false
 
     //salto de linea
@@ -43,4 +45,21 @@ fun main(){
 
     //imprimiendo un mensajes
     //print("Holiwi")
+
+    /**
+     * Operaciones Aritmeticas
+     * **/
+
+//    println("sumar")
+//    println(age + age2)
+//    println("restar")
+//    println(age - age2)
+//    println("multiplicar")
+//    println(age * age2)
+//    println("dividir")
+//    println(age / age2)
+//    println("modulo")
+//    println(age % age2)
+
+
 }
